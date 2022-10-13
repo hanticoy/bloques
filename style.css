@@ -7,7 +7,7 @@
 }
 .top-nav {
     height: 150px;
-    background-color: green;
+    background-color: aqua;
 }
 .side-nav {
     height: 300px;
@@ -36,7 +36,6 @@
     width: 670px;
     background-color: purple;
     float: left;
-    margin-top: 20px;
-  
+    margin-top: 20px;  
     margin-left: 15px;
 }
